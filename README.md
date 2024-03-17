@@ -31,6 +31,7 @@ education for users. Seeking to leverage technical acumen and proactive approach
 - **Certification** in Cybersecurity, Edureka, 2024
 - **Certification** in Vulnerability Management Detection and Response , QUALYS, 2024
 - **Certification** in Linux Fundamentals, Edureka, 2024
+- **Certification** in Microsoft Excel, Edureka, 2024
 
 
 ## Contact Me
