@@ -1,4 +1,4 @@
-# [SALIK]
+# SALIK SAREER SHAH
 
 ## About Me
 Results-driven cybersecurity fresher with expertise in improving existing security services and implementing robust measures to mitigate risks. Skilled in performing penetration tests, identifying vulnerabilities, and enhancing security 
@@ -25,20 +25,18 @@ education for users. Seeking to leverage technical acumen and proactive approach
 
 
 ## Education
-- **Degree** in CIVIL ENGINEERING, [BABA GHULAMSHAH BADSHAH UNIVERSITY], [2013]
+- **Degree** in CIVIL ENGINEERING, BABA GHULAMSHAH BADSHAH UNIVERSITY, 2013
 
 ## Certifications
-- **[Certification]** in [Cybersecurity], [Edureka], [2024]
-- **[Certification]** in [Vulnerability Management Detection and Response ], [QUALYS], [2024]
-- **[Certification]** in [Linux Fundamentals], [Edureka], [2024]
+- **Certification** in Cybersecurity, Edureka, 2024
+- **Certification** in Vulnerability Management Detection and Response , QUALYS, 2024
+- **Certification** in Linux Fundamentals, Edureka, 2024
 
 
 ## Contact Me
-- LinkedIn: www.linkedin.com/in/salik-sareer-shah-9066b6273]
-- Email: [Saliksareershahh@gmail.com]
+- LinkedIn: www.linkedin.com/in/salik-sareer-shah-9066b6273
+- Email: Saliksareershahh@gmail.com
 
 
 
----
 
-Feel free to customize the sections according to your preferences and add any additional details you find relevant. Good luck with your GitHub profile!2013
