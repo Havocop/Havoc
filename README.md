@@ -1,8 +1,3 @@
-# Havoc
-Certainly! Here's a template for your GitHub profile as a cybersecurity professional fresher with a focus on trending skills:
-
----
-
 # [SALIK]
 
 ## About Me
