@@ -25,7 +25,7 @@ education for users. Seeking to leverage technical acumen and proactive approach
 
 
 ## Education
-- **[Degree]** in [Field], [BABA GHULAMSHAH BADSHAH UNIVERSITY], [2013]
+- **Degree** in CIVIL ENGINEERING, [BABA GHULAMSHAH BADSHAH UNIVERSITY], [2013]
 
 ## Certifications
 - **[Certification]** in [Cybersecurity], [Edureka], [2024]
